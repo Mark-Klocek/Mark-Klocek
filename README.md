@@ -1,6 +1,9 @@
 # Hi, I’m Mark
+<p align="left">
+  <img src="pic00.png" width="150" align="left" style="margin-right: 15px;" />
+ From flight school to managing casino floors, I’ve had a range of experiences, but few years ago I decided to shift focus and pursue what I’m truly passionate about: tech. Since then, I’ve been building real tools with real outcomes, turning a self-taught skillset into a full-time career as a software engineer.
+</p>
 
-rom flight school to managing casino floors, I’ve had a range of experiences, but few years ago I decided to shift focus and pursue what I’m truly passionate about: tech. Since then, I’ve been building real tools with real outcomes, turning a self-taught skillset into a full-time career as a software engineer.
 
 ## Projects
 
