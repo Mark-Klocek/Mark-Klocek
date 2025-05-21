@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Mark
 
-<!--
-**Mark-Klocek/Mark-Klocek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rom flight school to managing casino floors, I’ve had a range of experiences, but few years ago I decided to shift focus and pursue what I’m truly passionate about: tech. Since then, I’ve been building real tools with real outcomes, turning a self-taught skillset into a full-time career as a software engineer.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NASA API Explorer — lets users search and explore NASA’s image archive. (Will be expanding to other functionalities, this is a work in progress!)
+- Lead List Tool — scrapes and compiles filtered leads into a PostgreSQL database.
+- PetroTact — calculates optimal oil spill response strategies for coastal scenarios.
+
+I’ve had opportunities building data tools and internal apps for clients in environmental science and lead generation. Right now, I’m actively looking for full-time roles where I can keep learning, contribute meaningfully, and ship work that matters.
+
+## Projects I’ve Built
+
+- **Lead List Tool** — asynchronous Python tool that gathers and aggregates business data into a PostgreSQL database, enabling fast, keyword-targeted lead generation.
+- **PetroTact Solutions** — oil spill calculator that recommends cleanup strategies based on coastal substrate and goals. Built with Python and Flet.
+- **NASA Explorer** —  tool to search and explore NASA’s image and video archive. Built with vanilla JavaScript and CSS. will be adding more functionality! Work in progress
+
+## Tools I Use
+
+- Python, JavaScript, HTML, CSS  
+- PostgreSQL,  
+- Flet,  
+- Git, GitHub, Netlify  
+
+## What I'm Learning Now
+
+- MERN stack 
+
+
+
+## Currently Looking For
+
+I’m actively looking for entry level software engineering roles — ideally in backend, frontend, or full-stack. Open to remote or hybrid work.
+
+## How to Reach Me
+
+- **Email:** mark.klocek@gmail.com  
+- **Linkedin:** [@Mark-Klocek](https://www.linkedin.com/in/mark-klocek/)  
+- **Personal Website:** (https://markklocek.com)
