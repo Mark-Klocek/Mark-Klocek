@@ -34,7 +34,7 @@ I’ve had opportunities building data tools and internal apps for clients in en
 
 ## Currently Looking For
 
-I’m actively looking for entry level software engineering roles — ideally in backend, frontend, or full-stack. Open to remote or hybrid work.
+I’m actively looking for entry level software engineering roles. Open to remote, hybrid or on-site work.
 
 ## How to Reach Me
 
