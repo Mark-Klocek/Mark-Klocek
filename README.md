@@ -40,4 +40,4 @@ I’m actively looking for entry level software engineering roles. Open to remot
 
 - **Email:** mark.klocek@gmail.com  
 - **Linkedin:** [@Mark-Klocek](https://www.linkedin.com/in/mark-klocek/)  
-- **Personal Website:** (https://markklocek.com)
+- **Personal Website:** https://markklocek.com
