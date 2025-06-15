@@ -5,12 +5,6 @@
 </p>
 
 
-## Projects
-
-- NASA API Explorer — lets users search and explore NASA’s image archive. (Will be expanding to other functionalities, this is a work in progress!)
-- Lead List Tool — scrapes and compiles filtered leads into a PostgreSQL database.
-- PetroTact — calculates optimal oil spill response strategies for coastal scenarios.
-
 I’ve had opportunities building data tools and internal apps for clients in environmental science and lead generation. Right now, I’m actively looking for full-time roles where I can keep learning, contribute meaningfully, and ship work that matters.
 
 ## Projects I’ve Built
