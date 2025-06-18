@@ -18,7 +18,10 @@ I’ve had opportunities building data tools and internal apps for clients in en
 - Python, JavaScript, HTML, CSS  
 - PostgreSQL,  
 - Flet,  
-- Git, GitHub, Netlify  
+- Git, GitHub, Netlify
+- Node.js
+- Express.js
+- MongoDB
 
 ## What I'm Learning Now
 
