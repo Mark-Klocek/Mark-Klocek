@@ -9,9 +9,10 @@ I’ve had opportunities building data tools and internal apps for clients in en
 
 ## Projects I’ve Built
 
-- **Lead List Tool** — asynchronous Python tool that gathers and aggregates business data into a PostgreSQL database, enabling fast, keyword-targeted lead generation.
+- **Lead List Tool** — asynchronous Python tool that gathers and aggregates business data into a PostgreSQL database, enabling fast, keyword-targeted lead generation. Built with Python and PostgreSQL
 - **PetroTact Solutions** — oil spill calculator that recommends cleanup strategies based on coastal substrate and goals. Built with Python and Flet.
-- **NASA Explorer** —  tool to search and explore NASA’s image and video archive. Built with vanilla JavaScript and CSS. will be adding more functionality! Work in progress
+- **NASA Explorer** —  tool to search and explore NASA’s image and video archive. Built with vanilla JavaScript and CSS. will be adding more functionality! Work in progress. Built with vanilla HTML/CSS/JS
+- **First Crud** — basic crud app that writes list items to mongoDB, reads that data, and can also update/delete that data. Built with HTML/CSS/Vanilla JS/Node.js/Express.js/MongoDB
 
 ## Tools I Use
 
